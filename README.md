@@ -2,7 +2,7 @@
 
 ## Usage
 
-### PhoneGap CLI
+### Shandiz
 
     $ Shandiz Menu
 
