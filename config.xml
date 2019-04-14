@@ -2,10 +2,10 @@
 <widget id="com.shandiz.menu" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Shandiz-Menu</name>
     <description>
-        A blank PhoneGap app.
+        Restaurant Menu
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        Arman
     </author>
     <content src="index.html" />
     <access origin="*" />
