@@ -1,10 +1,10 @@
-# A Blank PhoneGap App
+# Shandiz Menu App
 
 ## Usage
 
 ### PhoneGap CLI
 
-    $ phonegap create my-app --template blank
+    $ Shandiz Menu
 
 ### Desktop
 
