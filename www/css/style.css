@@ -78,6 +78,7 @@ body {
 .swiper-container {
   width: 100%;
   padding-top: 70px;
+  height: 750px;
 }
 .swiper-slide {
   background-position: center;
@@ -187,7 +188,7 @@ body {
 
 .box img {
   width: 100%;
-  height: 250px;
+  height: 400px;
 }
 
 .box a h4 {
@@ -236,9 +237,14 @@ i {
 }
 
 .cat1 {
-  padding-top: 300px;
+  padding-top: 70px;
 }
 
 .big img {
   height: 100%;
+}
+
+.big2 img {
+  height: 350px;
+  width: 350px;
 }
